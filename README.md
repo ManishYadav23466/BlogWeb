@@ -1,12 +1,22 @@
-# React + Vite
+📝 Blogging Website – Hindi-English Tech Blog Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, feature-rich blogging website built to empower developers, learners, and tech enthusiasts to share knowledge in Hindi and English.
 
-Currently, two official plugins are available:
+This platform allows users to write, edit, like, tag, and comment on blogs — making it interactive and community-driven. Ideal for publishing content on ethical hacking, Kali Linux, programming, web development, and more.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔑 Key Features:
+✍️ Write & Edit Posts – Create, update, or delete your blog posts
 
-## Expanding the ESLint configuration
+🏷️ Tags Support – Categorize blogs with relevant tags
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+❤️ Like System – Readers can like and support your content
+
+💬 Comment Section – Engage with readers through comments
+
+🌐 Multilingual – Content in both Hindi & English
+
+📱 Responsive Design – Mobile-friendly and easy to use
+
+🔒 User Authentication (optional) – Secure login system for authors
+
+Whether you're a beginner sharing your first tutorial or an expert posting deep dives, this platform gives you the freedom to express and educate.
