@@ -17,6 +17,6 @@ This platform allows users to write, edit, like, tag, and comment on blogs — m
 
 📱 Responsive Design – Mobile-friendly and easy to use
 
-🔒 User Authentication (optional) – Secure login system for authors
+🔒 User Authentication – Secure login system for authors
 
 Whether you're a beginner sharing your first tutorial or an expert posting deep dives, this platform gives you the freedom to express and educate.
